@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "Pacifico";
+    src: url('Pacifico.ttf');
+}
+@font-face{
+    font-family: "neucha";
+    src: url('neucha.otf');
+}
+
+body{
+    font-family: neucha;
+}
+
+.enseigne{
+    color: #5f021f;
+    font-family: Pacifico;  
+}
+.nbr_caneles
+{
+    color: #a47;
+}
